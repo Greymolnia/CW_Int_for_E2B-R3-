@@ -16,7 +16,7 @@ const SECTIONS = [
     { id: 'drugs', title: '3. Лекарственные препараты', required: true },
     { id: 'reactions', title: '4. Нежелательные реакции', required: true },
     { id: 'tests', title: '5. Исследования и тесты', required: false },
-    { id: 'investigation', title: '6. Расследования (Study)', required: false },
+    { id: 'investigation', title: '6. Расследования', required: false },
     { id: 'summary', title: '7. Сводные данные', required: false },
 ];
 
